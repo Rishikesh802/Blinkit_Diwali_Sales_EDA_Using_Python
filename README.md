@@ -74,6 +74,3 @@ The dataset contains customer and sales-related information such as:
 
 ## Business Conclusion
 Married women aged 26–35 years from Uttar Pradesh, Maharashtra, and Karnataka working in IT, Healthcare, and Aviation sectors are more likely to purchase products from Food, Clothing, and Electronics categories during the Diwali season.
-
-## Author
-Rushikesh Phadatare
